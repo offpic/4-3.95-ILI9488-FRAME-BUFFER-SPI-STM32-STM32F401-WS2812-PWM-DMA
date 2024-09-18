@@ -1,4 +1,4 @@
-#Framebuffer
+# Framebuffer
 
 A framebuffer is a piece of memory that is updated by the graphics engine to contain the next image to be shown on the display.
 
